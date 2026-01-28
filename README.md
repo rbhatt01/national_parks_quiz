@@ -11,10 +11,6 @@ A fun, interactive personality quiz that matches you with one of America's 63 na
 - 📱 Mobile-friendly interface
 - 🔄 Share your results
 
-## 🚀 Live Demo
-
-[Add your deployed URL here]
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Go 1.25+
