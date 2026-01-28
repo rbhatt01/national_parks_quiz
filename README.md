@@ -82,10 +82,6 @@ The quiz uses a trait-matching algorithm that:
 - Park data and images from the [National Park Service](https://www.nps.gov/)
 - Built with ❤️ for nature lovers and adventure seekers
 
-## 📝 License
-
-MIT License - feel free to use this project for inspiration!
-
 ---
 
-**Made with 🌲 by [Your Name]**
+**Made with 🌲 by Ria Bhatt**
