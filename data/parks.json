@@ -1,0 +1,1705 @@
+{
+  "parks": [
+    {
+      "id": "acadia",
+      "name": "Acadia",
+      "state": "ME",
+      "primary_group": "Coastal & Ocean",
+      "secondary_groups": [
+        "Forest & Lush"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.8,
+        "remoteness": 0.2,
+        "grit": 0.4,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 0.6,
+        "water_affinity": 0.9,
+        "verticality": 0.3
+      },
+      "tags": [
+        "moody",
+        "poetic",
+        "sunrise-lover"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7B477B-1DD8-B71B-0BCB48E009241BAA.jpg",
+      "description": "You're drawn to moody, dramatic coastlines and love catching that perfect sunrise. You thrive in social settings but appreciate moments of introspection by the water."
+    },
+    {
+      "id": "american_samoa",
+      "name": "American Samoa",
+      "state": "AS",
+      "primary_group": "Coastal & Ocean",
+      "secondary_groups": [
+        "Tropical Wilderness"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.2,
+        "remoteness": 0.7,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 1.0,
+        "verticality": 0.2
+      },
+      "tags": [
+        "untouched",
+        "cultural",
+        "serene"
+      ],
+      "description": "You're a true adventurer who seeks untouched, remote places where culture and nature intertwine. The tropics call to you, and you're not afraid to go off the beaten path."
+    },
+    {
+      "id": "arches",
+      "name": "Arches",
+      "state": "UT",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Geological Wonder"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.8,
+        "remoteness": 0.2,
+        "grit": 0.4,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.0,
+        "verticality": 0.7
+      },
+      "tags": [
+        "iconic",
+        "sculptural",
+        "golden-hour"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/473F5463-F0D2-261D-CEF5FCB39363590B.jpg",
+      "description": "You're iconic and unforgettable, with a flair for the dramatic. You love wide-open spaces and golden hour magic, and you're not afraid to stand out from the crowd."
+    },
+    {
+      "id": "badlands",
+      "name": "Badlands",
+      "state": "SD",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "Prairie / Arid"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.4,
+        "remoteness": 0.5,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.5,
+        "climate_cold": 0.5,
+        "water_affinity": 0.1,
+        "verticality": 0.6
+      },
+      "tags": [
+        "stark",
+        "layered",
+        "underrated"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C82EE63-1DD8-B71B-0BD6EE0FDCB5D402.jpg",
+      "description": "You're underrated and full of hidden depths. You embrace stark beauty and aren't afraid of a little grit—you know that the most interesting landscapes aren't always the easiest."
+    },
+    {
+      "id": "big_bend",
+      "name": "Big Bend",
+      "state": "TX",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "River & Canyon"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.6,
+        "verticality": 0.7
+      },
+      "tags": [
+        "remote",
+        "resilient",
+        "expansive"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/8BF8356B-BB63-76A4-19F5296EF94C96B4.jpg",
+      "description": "You're resilient and thrive in remote, challenging environments. You've got serious grit and love the expansive feeling of being truly away from it all."
+    },
+    {
+      "id": "biscayne",
+      "name": "Biscayne",
+      "state": "FL",
+      "primary_group": "Water-Centered",
+      "secondary_groups": [
+        "Coastal & Ocean"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.3,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 1.0,
+        "verticality": 0.1
+      },
+      "tags": [
+        "calm",
+        "aquatic",
+        "hidden"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C8717A4-1DD8-B71B-0B2EED68CFA7E008.jpg",
+      "description": "You're calm and aquatic at heart, drawn to hidden gems that others might overlook. You love the water and prefer peaceful, serene environments over crowded scenes."
+    },
+    {
+      "id": "black_canyon_of_the_gunnison",
+      "name": "Black Canyon of the Gunnison",
+      "state": "CO",
+      "primary_group": "Canyon & Geological",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 1.0,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.2,
+        "verticality": 1.0
+      },
+      "tags": [
+        "intense",
+        "vertigo",
+        "dramatic"
+      ],
+      "description": "You're intense and dramatic, unafraid of vertigo-inducing challenges. You thrive in remote places that demand grit and respect—shallow experiences aren't your thing."
+    },
+    {
+      "id": "bryce_canyon",
+      "name": "Bryce Canyon",
+      "state": "UT",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "High Desert"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.8,
+        "remoteness": 0.2,
+        "grit": 0.4,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 0.4,
+        "water_affinity": 0.1,
+        "verticality": 0.7
+      },
+      "tags": [
+        "whimsical",
+        "otherworldly",
+        "delicate"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/61F08520-E14F-18F2-BF5F3D89482631BD.jpg",
+      "description": "You're whimsical and otherworldly, with an appreciation for delicate beauty. You love socializing but also enjoy the unique and unusual—you see magic where others see rocks."
+    },
+    {
+      "id": "canyonlands",
+      "name": "Canyonlands",
+      "state": "UT",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Canyon"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.4,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.2,
+        "verticality": 0.7
+      },
+      "tags": [
+        "vast",
+        "rugged",
+        "solitary"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7A525D-1DD8-B71B-0B8E59D2EB39F6D0.jpg",
+      "description": "You're vast and rugged, preferring solitude over crowds. You've got the grit to handle harsh environments and the soul to appreciate raw, untamed beauty."
+    },
+    {
+      "id": "capitol_reef",
+      "name": "Capitol Reef",
+      "state": "UT",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "Desert"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.2,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.6
+      },
+      "tags": [
+        "quiet",
+        "balanced",
+        "hidden-gem"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C82E3C7-1DD8-B71B-0B4181834EE46AED.jpg",
+      "description": "You're a quiet, balanced soul who seeks hidden gems away from the tourist crowds. You appreciate subtle beauty and don't need everyone to understand your vibe."
+    },
+    {
+      "id": "carlsbad_caverns",
+      "name": "Carlsbad Caverns",
+      "state": "NM",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "Underground"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.4,
+        "drama": 0.8,
+        "climate_hot": 0.2,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.5
+      },
+      "tags": [
+        "mysterious",
+        "inward",
+        "dramatic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/29C3C977-AAE6-B7FD-3C107828D704A5CB.jpg",
+      "description": "You're mysterious and introspective, drawn to what lies beneath the surface. You love dramatic reveals and aren't afraid to look inward to find beauty."
+    },
+    {
+      "id": "channel_islands",
+      "name": "Channel Islands",
+      "state": "CA",
+      "primary_group": "Coastal & Ocean",
+      "secondary_groups": [
+        "Remote Wilderness"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 0.5,
+        "climate_cold": 0.0,
+        "water_affinity": 0.9,
+        "verticality": 0.3
+      },
+      "tags": [
+        "wild",
+        "isolated",
+        "windswept"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/8DE774D1-CB22-37F2-D826E3F0A73D303A.jpg",
+      "description": "You're wild and windswept, thriving in isolated places that demand adventure. You've got the grit for remote exploration and the heart for untouched wilderness."
+    },
+    {
+      "id": "congaree",
+      "name": "Congaree",
+      "state": "SC",
+      "primary_group": "Water-Centered",
+      "secondary_groups": [
+        "Forest & Lush"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.2,
+        "remoteness": 0.7,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.8,
+        "verticality": 0.2
+      },
+      "tags": [
+        "quiet",
+        "ancient",
+        "slow"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C862C60-1DD8-B71B-0BB65F7B652BA840.jpg",
+      "description": "You're quiet and ancient at heart, moving at your own pace. You love the slow, steady rhythm of nature and appreciate places that most people rush past."
+    },
+    {
+      "id": "crater_lake",
+      "name": "Crater Lake",
+      "state": "OR",
+      "primary_group": "Volcanic",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.9,
+        "verticality": 0.7
+      },
+      "tags": [
+        "deep",
+        "serene",
+        "striking"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7B227E-1DD8-B71B-0BEECDD24771C381.jpg",
+      "description": "You're deep and serene with a striking presence. You love cold climates and dramatic settings, and you're drawn to places that take your breath away with their clarity."
+    },
+    {
+      "id": "cuyahoga_valley",
+      "name": "Cuyahoga Valley",
+      "state": "OH",
+      "primary_group": "Forest & Lush",
+      "secondary_groups": [
+        "River"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.8,
+        "remoteness": 0.2,
+        "grit": 0.2,
+        "drama": 0.4,
+        "climate_hot": 0.3,
+        "climate_cold": 0.4,
+        "water_affinity": 0.8,
+        "verticality": 0.2
+      },
+      "tags": [
+        "accessible",
+        "gentle",
+        "grounding"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/F7425874-D97F-BFD6-36581A36C8A7FF0D.jpg",
+      "description": "You're accessible and gentle, finding beauty in the everyday. You love bringing people together in green spaces and believe nature should be easy to reach and enjoy."
+    },
+    {
+      "id": "death_valley",
+      "name": "Death Valley",
+      "state": "CA",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Extreme Landscape"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.7,
+        "grit": 1.0,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.0,
+        "verticality": 0.7
+      },
+      "tags": [
+        "brutal",
+        "surreal",
+        "resilient"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/010A933C-95B1-CBCD-D6D64D47D5B81E76.jpg",
+      "description": "You're brutal, surreal, and incredibly resilient. You thrive in extreme conditions and have the grit to push through when others would give up—you're built different."
+    },
+    {
+      "id": "denali",
+      "name": "Denali",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 1.0,
+        "social": 0.2,
+        "remoteness": 1.0,
+        "grit": 1.0,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.1,
+        "verticality": 1.0
+      },
+      "tags": [
+        "untamed",
+        "epic",
+        "humbling"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C83CC90-1DD8-B71B-0B1F35E5ED96E36F.jpg",
+      "description": "You're untamed, epic, and absolutely humbling. You've got maximum energy and grit, and you're drawn to the wildest, most remote places on Earth. You don't do anything halfway."
+    },
+    {
+      "id": "dry_tortugas",
+      "name": "Dry Tortugas",
+      "state": "FL",
+      "primary_group": "Coastal & Ocean",
+      "secondary_groups": [
+        "Remote"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 1.0,
+        "verticality": 0.1
+      },
+      "tags": [
+        "isolated",
+        "historic",
+        "crystalline"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C81050F-1DD8-B71B-0B45EDC68B621860.jpg",
+      "description": "You're isolated and historic, with a love for crystalline waters and remote beauty. You appreciate the journey it takes to reach something truly special."
+    },
+    {
+      "id": "everglades",
+      "name": "Everglades",
+      "state": "FL",
+      "primary_group": "Water-Centered",
+      "secondary_groups": [
+        "Wetland"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.6,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 1.0,
+        "verticality": 0.1
+      },
+      "tags": [
+        "wild",
+        "living",
+        "primordial"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/17EC840E-9926-2E09-F2DD47A282915BBB.jpg",
+      "description": "You're wild and primordial, comfortable in environments that others find intimidating. You embrace the living, breathing chaos of nature and respect its ancient power."
+    },
+    {
+      "id": "gates_of_the_arctic",
+      "name": "Gates of the Arctic",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Arctic"
+      ],
+      "traits": {
+        "energy": 1.0,
+        "social": 0.0,
+        "remoteness": 1.0,
+        "grit": 1.0,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.1,
+        "verticality": 0.8
+      },
+      "tags": [
+        "pure",
+        "extreme",
+        "untouched"
+      ],
+      "description": "You're pure and extreme, seeking total solitude in untouched wilderness. You've got maximum grit and remoteness—you're literally off the map, and that's exactly how you like it."
+    },
+    {
+      "id": "gateway_arch",
+      "name": "Gateway Arch",
+      "state": "MO",
+      "primary_group": "Cultural / Urban",
+      "secondary_groups": [
+        "River"
+      ],
+      "traits": {
+        "energy": 0.2,
+        "social": 1.0,
+        "remoteness": 0.1,
+        "grit": 0.2,
+        "drama": 0.6,
+        "climate_hot": 0.5,
+        "climate_cold": 0.5,
+        "water_affinity": 0.7,
+        "verticality": 0.4
+      },
+      "tags": [
+        "symbolic",
+        "social",
+        "historic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/200BA7E6-D782-9A97-A8C36AC178DEB31C.jpg",
+      "description": "You're symbolic and social, thriving in urban settings where history meets community. You're all about bringing people together and celebrating human achievement."
+    },
+    {
+      "id": "glacier",
+      "name": "Glacier",
+      "state": "MT",
+      "primary_group": "Mountain & Alpine",
+      "secondary_groups": [
+        "Glacier"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.7,
+        "verticality": 0.9
+      },
+      "tags": [
+        "pristine",
+        "powerful",
+        "fleeting"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/C20E6CD3-CDF7-B3AB-8448CDCD7FD590FF.jpg",
+      "description": "You're pristine and powerful, with a dramatic presence that's impossible to ignore. You love cold, alpine settings and have the grit to tackle serious adventures while still being social."
+    },
+    {
+      "id": "glacier_bay",
+      "name": "Glacier Bay",
+      "state": "AK",
+      "primary_group": "Coastal & Ice",
+      "secondary_groups": [
+        "Remote Wilderness"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.9,
+        "verticality": 0.7
+      },
+      "tags": [
+        "monumental",
+        "silent",
+        "ancient"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C791618-1DD8-B71B-0B113FBF2EC1D614.jpg",
+      "description": "You're monumental and silent, drawn to ancient ice and remote coastal wilderness. You find peace in the quiet power of nature's slowest, most dramatic processes."
+    },
+    {
+      "id": "grand_canyon",
+      "name": "Grand Canyon",
+      "state": "AZ",
+      "primary_group": "Canyon & Geological",
+      "secondary_groups": [
+        "Desert"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 1.0,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.4,
+        "verticality": 1.0
+      },
+      "tags": [
+        "iconic",
+        "overwhelming",
+        "timeless"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7B12D1-1DD8-B71B-0BCE0712F9CEA155.jpg",
+      "description": "You're iconic and overwhelming in the best way. You're social yet rugged, dramatic yet timeless—you're literally a force of nature that leaves everyone speechless."
+    },
+    {
+      "id": "grand_teton",
+      "name": "Grand Teton",
+      "state": "WY",
+      "primary_group": "Mountain & Alpine",
+      "secondary_groups": [
+        "Wildlife"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.4,
+        "verticality": 0.9
+      },
+      "tags": [
+        "sharp",
+        "elegant",
+        "bold"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7FA4C5-1DD8-B71B-0B7FCC54E43FEE79.jpg",
+      "description": "You're sharp, elegant, and bold. You love dramatic mountain scenery and have the energy and grit to tackle serious alpine adventures with style."
+    },
+    {
+      "id": "great_basin",
+      "name": "Great Basin",
+      "state": "NV",
+      "primary_group": "Desert & Mountain",
+      "secondary_groups": [
+        "Dark Sky"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.2,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.5,
+        "climate_cold": 0.5,
+        "water_affinity": 0.1,
+        "verticality": 0.5
+      },
+      "tags": [
+        "quiet",
+        "introspective",
+        "starry"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/FD29737E-9549-8EF4-90C1076486DE559A.jpeg",
+      "description": "You're quiet and introspective, finding peace under starry skies. You embrace both desert heat and mountain cold, and you're drawn to places that invite contemplation."
+    },
+    {
+      "id": "great_sand_dunes",
+      "name": "Great Sand Dunes",
+      "state": "CO",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.2,
+        "verticality": 0.7
+      },
+      "tags": [
+        "playful",
+        "unexpected",
+        "kinetic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/BC4ACB4C-0A6D-0188-E9A6AA1217827461.jpg",
+      "description": "You're playful and unexpected, thriving where different landscapes collide. You've got kinetic energy and love surprising people with your unique perspective."
+    },
+    {
+      "id": "great_smoky_mountains",
+      "name": "Great Smoky Mountains",
+      "state": "TN/NC",
+      "primary_group": "Forest & Lush",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 1.0,
+        "remoteness": 0.4,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.7,
+        "climate_cold": 0.5,
+        "water_affinity": 0.5,
+        "verticality": 0.5
+      },
+      "tags": [
+        "comforting",
+        "misty",
+        "welcoming"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C80E3F4-1DD8-B71B-0BFF4F2280EF1B52.jpg",
+      "description": "You're comforting and welcoming, like a warm hug from nature. You're super social and love bringing people together in misty, peaceful mountain settings."
+    },
+    {
+      "id": "guadalupe_mountains",
+      "name": "Guadalupe Mountains",
+      "state": "TX",
+      "primary_group": "Mountain & Desert",
+      "secondary_groups": [
+        "Remote"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 0.6,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.7
+      },
+      "tags": [
+        "tough",
+        "quiet",
+        "resilient"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C825533-1DD8-B71B-0B6FDF436F604A3C.jpg",
+      "description": "You're tough, quiet, and resilient. You thrive in remote, desert mountain environments and don't need anyone's approval—you know your worth."
+    },
+    {
+      "id": "haleakala",
+      "name": "Haleakalā",
+      "state": "HI",
+      "primary_group": "Volcanic",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.6,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.2,
+        "verticality": 0.8
+      },
+      "tags": [
+        "cosmic",
+        "reflective",
+        "sunrise"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3D05E583-1DD8-B71B-0BBFF82F7F78AF6A.jpg",
+      "description": "You're cosmic and reflective, drawn to sunrise moments that feel otherworldly. You love volcanic drama and appreciate the quiet power of high-altitude contemplation."
+    },
+    {
+      "id": "hawaii_volcanoes",
+      "name": "Hawaiʻi Volcanoes",
+      "state": "HI",
+      "primary_group": "Volcanic",
+      "secondary_groups": [
+        "Extreme Landscape"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.2,
+        "verticality": 0.9
+      },
+      "tags": [
+        "alive",
+        "creative",
+        "dangerous"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/C4E8415A-08E5-5976-833F494FFCA3FFE6.jpg",
+      "description": "You're alive, creative, and a little dangerous. You thrive on transformation and aren't afraid of chaos—you know that creation and destruction are two sides of the same coin."
+    },
+    {
+      "id": "hot_springs",
+      "name": "Hot Springs",
+      "state": "AR",
+      "primary_group": "Water-Centered",
+      "secondary_groups": [
+        "Cultural"
+      ],
+      "traits": {
+        "energy": 0.2,
+        "social": 0.8,
+        "remoteness": 0.2,
+        "grit": 0.2,
+        "drama": 0.4,
+        "climate_hot": 0.7,
+        "climate_cold": 0.3,
+        "water_affinity": 0.9,
+        "verticality": 0.2
+      },
+      "tags": [
+        "restorative",
+        "historic",
+        "cozy"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/C0D8DFDD-F151-C5B0-3004B0088C98BA5A.jpg",
+      "description": "You're restorative and historic, bringing people together in cozy, healing spaces. You value wellness and community, and you're all about that warm, fuzzy feeling."
+    },
+    {
+      "id": "indiana_dunes",
+      "name": "Indiana Dunes",
+      "state": "IN",
+      "primary_group": "Coastal (Lake)",
+      "secondary_groups": [
+        "Forest"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.8,
+        "remoteness": 0.3,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.7,
+        "climate_cold": 0.3,
+        "water_affinity": 0.8,
+        "verticality": 0.2
+      },
+      "tags": [
+        "playful",
+        "accessible",
+        "breezy"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/9253EDFB-AAFD-E111-B985CD2747F5C48F.jpg",
+      "description": "You're playful and accessible, bringing beachy vibes to unexpected places. You're social and breezy, proving that you don't need an ocean to have fun by the water."
+    },
+    {
+      "id": "isle_royale",
+      "name": "Isle Royale",
+      "state": "MI",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Water"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.0,
+        "remoteness": 1.0,
+        "grit": 1.0,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.8,
+        "verticality": 0.5
+      },
+      "tags": [
+        "solitary",
+        "primal",
+        "patient"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/6059CAD8-02E8-2E00-2922DF84800167E0.jpg",
+      "description": "You're solitary and primal, seeking pure wilderness far from civilization. You've got maximum grit and remoteness—you're comfortable being truly alone with nature."
+    },
+    {
+      "id": "joshua_tree",
+      "name": "Joshua Tree",
+      "state": "CA",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Rock Climbing"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.8,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.7
+      },
+      "tags": [
+        "quirky",
+        "creative",
+        "resilient"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/306D0D93-9CCA-76E1-AD48268F8D7A7E3E.jpg",
+      "description": "You're quirky, creative, and resilient. You thrive in unique environments and have the grit to bloom where you're planted, even when conditions are harsh."
+    },
+    {
+      "id": "katmai",
+      "name": "Katmai",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Wildlife"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.6,
+        "verticality": 0.5
+      },
+      "tags": [
+        "predator",
+        "primordial",
+        "wild"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7A0FDB-1DD8-B71B-0B8933ACA92FE6B3.jpg",
+      "description": "You're predatory and primordial, embracing the wild food chain in all its raw power. You love remote wilderness where nature is unfiltered and survival is everything."
+    },
+    {
+      "id": "kenai_fjords",
+      "name": "Kenai Fjords",
+      "state": "AK",
+      "primary_group": "Coastal & Ice",
+      "secondary_groups": [
+        "Glacier"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.2,
+        "remoteness": 0.8,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.9,
+        "verticality": 0.7
+      },
+      "tags": [
+        "epic",
+        "crystalline",
+        "flowing"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C798EAB-1DD8-B71B-0BC4BEFB197F2C90.jpg",
+      "description": "You're epic and crystalline, drawn to dramatic glaciers flowing into the sea. You love cold, remote beauty and appreciate nature's slow, powerful transformations."
+    },
+    {
+      "id": "kings_canyon",
+      "name": "Kings Canyon",
+      "state": "CA",
+      "primary_group": "Mountain & Forest",
+      "secondary_groups": [
+        "Remote Wilderness"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.4,
+        "remoteness": 0.7,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.5,
+        "verticality": 0.9
+      },
+      "tags": [
+        "grand",
+        "quiet",
+        "towering"
+      ],
+      "description": "You're grand and quiet, with towering presence in remote wilderness. You prefer peaceful solitude over crowds, and you've got serious vertical ambitions."
+    },
+    {
+      "id": "lake_clark",
+      "name": "Lake Clark",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Mountain",
+        "Water"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.9,
+        "grit": 0.8,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.9,
+        "verticality": 0.7
+      },
+      "tags": [
+        "vast",
+        "wild",
+        "serene"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7A9F9E-1DD8-B71B-0B6CEC8EF3F377DA.jpg",
+      "description": "You're vast, wild, and serene all at once. You thrive in remote Alaskan wilderness where water meets mountains, and you're comfortable with extreme solitude."
+    },
+    {
+      "id": "lassen_volcanic",
+      "name": "Lassen Volcanic",
+      "state": "CA",
+      "primary_group": "Volcanic",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.2,
+        "climate_cold": 0.4,
+        "water_affinity": 0.3,
+        "verticality": 0.7
+      },
+      "tags": [
+        "geothermal",
+        "dynamic",
+        "lively"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C873811-1DD8-B71B-0B9C62ED8E12E7B5.jpg",
+      "description": "You're geothermal and dynamic, constantly evolving and full of energy. You love volcanic landscapes that bubble, steam, and remind everyone that the earth is alive."
+    },
+    {
+      "id": "mammoth_cave",
+      "name": "Mammoth Cave",
+      "state": "KY",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "Underground"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.3,
+        "climate_cold": 0.4,
+        "water_affinity": 0.2,
+        "verticality": 0.4
+      },
+      "tags": [
+        "labyrinth",
+        "dark",
+        "historic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/95EAA431-F26B-66EB-E9E6B108F47F70B0.jpg",
+      "description": "You're a labyrinth of hidden depths and dark mystery. You're drawn to historic places that go deeper than the surface, literally and figuratively."
+    },
+    {
+      "id": "mesa_verde",
+      "name": "Mesa Verde",
+      "state": "CO",
+      "primary_group": "Cultural / Historical",
+      "secondary_groups": [
+        "Arid"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.6,
+        "drama": 0.6,
+        "climate_hot": 0.8,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.6
+      },
+      "tags": [
+        "ancient",
+        "architectural",
+        "mystical"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7C0089-1DD8-B71B-0BC397BA671C0616.jpg",
+      "description": "You're ancient and architectural, respecting cultures and mysteries of the past. You love arid landscapes that hold stories in their cliffs and ruins."
+    },
+    {
+      "id": "mount_rainier",
+      "name": "Mount Rainier",
+      "state": "WA",
+      "primary_group": "Mountain & Alpine",
+      "secondary_groups": [
+        "Volcanic"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.6,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.5,
+        "verticality": 0.9
+      },
+      "tags": [
+        "majestic",
+        "towering",
+        "foreboding"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/49F34094-B893-7DD6-5AE0F0220724B0EF.jpg",
+      "description": "You're majestic and towering, with a dramatic volcanic presence that commands respect. You love alpine challenges and have the grit to tackle serious elevation."
+    },
+    {
+      "id": "national_park_39",
+      "name": "North Cascades",
+      "state": "WA",
+      "primary_group": "Mountain & Alpine",
+      "secondary_groups": [
+        "Remote Wilderness"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.2,
+        "remoteness": 0.9,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.5,
+        "verticality": 0.9
+      },
+      "tags": [
+        "rugged",
+        "isolated",
+        "snowy"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7A599D-1DD8-B71B-0BBDC12BEC5107B5.jpg",
+      "description": "You're rugged, isolated, and covered in snow. You thrive in remote alpine wilderness that most people never even attempt to explore—you're the definition of wild."
+    },
+    {
+      "id": "olympic",
+      "name": "Olympic",
+      "state": "WA",
+      "primary_group": "Coastal & Forest",
+      "secondary_groups": [
+        "Mountain",
+        "Rainforest"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.8,
+        "verticality": 0.7
+      },
+      "tags": [
+        "diverse",
+        "lush",
+        "wet"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7B1DB4-1DD8-B71B-0B9DFEFDD398DB71.jpg",
+      "description": "You're incredibly diverse, comfortable in rainforests, mountains, and coastlines all at once. You're adaptable, lush, and always a little wet—in the best way."
+    },
+    {
+      "id": "petrified_forest",
+      "name": "Petrified Forest",
+      "state": "AZ",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Geological Wonder"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.4,
+        "remoteness": 0.5,
+        "grit": 0.6,
+        "drama": 0.6,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.0,
+        "verticality": 0.3
+      },
+      "tags": [
+        "prehistoric",
+        "striking",
+        "quiet"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7D8213-1DD8-B71B-0BE4A3B9394FD89A.jpg",
+      "description": "You're prehistoric and striking, with quiet beauty that makes people think. You love ancient, arid landscapes that whisper stories from millions of years ago."
+    },
+    {
+      "id": "pinnacles",
+      "name": "Pinnacles",
+      "state": "CA",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Rock Climbing"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.8,
+        "climate_cold": 0.0,
+        "water_affinity": 0.1,
+        "verticality": 0.7
+      },
+      "tags": [
+        "spiky",
+        "adventurous",
+        "hidden"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C86A8CB-1DD8-B71B-0BAE8F7141CCBB1B.jpg",
+      "description": "You're spiky and adventurous, drawn to hidden places with serious vertical challenges. You love rock climbing and proving that small parks can pack a big punch."
+    },
+    {
+      "id": "redwood",
+      "name": "Redwood",
+      "state": "CA",
+      "primary_group": "Forest & Lush",
+      "secondary_groups": [
+        "Coastal"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.2,
+        "climate_cold": 0.4,
+        "water_affinity": 0.7,
+        "verticality": 0.9
+      },
+      "tags": [
+        "towering",
+        "ancient",
+        "majestic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/CD69DD56-E050-4F4E-DDF622317D38250E.jpg",
+      "description": "You're towering, ancient, and absolutely majestic. You command respect without saying a word, and your presence is so powerful it makes people feel small—in a good way."
+    },
+    {
+      "id": "rocky_mountain",
+      "name": "Rocky Mountain",
+      "state": "CO",
+      "primary_group": "Mountain & Alpine",
+      "secondary_groups": [
+        "Forest"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.6,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.5,
+        "verticality": 0.9
+      },
+      "tags": [
+        "majestic",
+        "rugged",
+        "photogenic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/6C2F94EA-A9A0-0894-81AB05E006326A87.jpg",
+      "description": "You're rugged, photogenic, and totally majestic. You love high alpine adventures and have the social energy to share epic mountain experiences with others."
+    },
+    {
+      "id": "saguaro",
+      "name": "Saguaro",
+      "state": "AZ",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Cactus"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.0,
+        "verticality": 0.5
+      },
+      "tags": [
+        "prickly",
+        "iconic",
+        "arid"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/5CB8B2F6-01B7-9A50-73702A355E4136B8.jpg",
+      "description": "You're prickly but iconic, thriving in harsh desert heat with your arms held high. You've got the grit to stand tall in arid environments where others would wilt."
+    },
+    {
+      "id": "sequoia",
+      "name": "Sequoia",
+      "state": "CA",
+      "primary_group": "Forest & Mountain",
+      "secondary_groups": [
+        "High Altitude"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.8,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.4,
+        "verticality": 0.9
+      },
+      "tags": [
+        "giant",
+        "majestic",
+        "ancient"
+      ],
+      "description": "You're a giant in every sense—ancient, majestic, and towering over everything around you. You command respect and have the presence to make people stop and stare in awe."
+    },
+    {
+      "id": "shenandoah",
+      "name": "Shenandoah",
+      "state": "VA",
+      "primary_group": "Forest & Lush",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.8,
+        "remoteness": 0.3,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.5,
+        "climate_cold": 0.5,
+        "water_affinity": 0.5,
+        "verticality": 0.6
+      },
+      "tags": [
+        "misty",
+        "accessible",
+        "peaceful"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C80B539-1DD8-B71B-0BEAAA4AC31E7D5B.jpg",
+      "description": "You're misty, accessible, and peaceful. You love bringing people into nature's embrace without being too demanding—you're the gentle introduction to mountain magic."
+    },
+    {
+      "id": "theodore_roosevelt",
+      "name": "Theodore Roosevelt",
+      "state": "ND",
+      "primary_group": "Prairie & Arid",
+      "secondary_groups": [
+        "Cultural"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 0.6,
+        "climate_hot": 0.5,
+        "climate_cold": 0.5,
+        "water_affinity": 0.2,
+        "verticality": 0.3
+      },
+      "tags": [
+        "rugged",
+        "historic",
+        "windy"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C793AD5-1DD8-B71B-0B4A3C1BFA5B4C83.jpg",
+      "description": "You're rugged, historic, and windswept. You love wide prairie landscapes and embrace the pioneering spirit of resilience and conservation."
+    },
+    {
+      "id": "voyageurs",
+      "name": "Voyageurs",
+      "state": "MN",
+      "primary_group": "Water-Centered",
+      "secondary_groups": [
+        "Forest & Lakes"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.4,
+        "remoteness": 0.7,
+        "grit": 0.6,
+        "drama": 0.6,
+        "climate_hot": 0.3,
+        "climate_cold": 0.5,
+        "water_affinity": 1.0,
+        "verticality": 0.2
+      },
+      "tags": [
+        "lake-rich",
+        "remote",
+        "paddling"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C8405EF-1DD8-B71B-0B42909E4E77E144.jpg",
+      "description": "You're lake-rich and remote, thriving in water-centered wilderness perfect for paddling. You love northern forests and have the grit for backcountry water adventures."
+    },
+    {
+      "id": "wind_cave",
+      "name": "Wind Cave",
+      "state": "SD",
+      "primary_group": "Geological Wonder",
+      "secondary_groups": [
+        "Underground"
+      ],
+      "traits": {
+        "energy": 0.4,
+        "social": 0.6,
+        "remoteness": 0.5,
+        "grit": 0.4,
+        "drama": 0.6,
+        "climate_hot": 0.3,
+        "climate_cold": 0.4,
+        "water_affinity": 0.2,
+        "verticality": 0.4
+      },
+      "tags": [
+        "labyrinth",
+        "hidden",
+        "historic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7ACD12-1DD8-B71B-0BEF13804E4498FF.jpg",
+      "description": "You're a hidden labyrinth beneath the prairie, full of intricate mystery. You love underground beauty and appreciate that the best things are often hidden from view."
+    },
+    {
+      "id": "wrangell_st_eliias",
+      "name": "Wrangell–St. Elias",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Mountain",
+        "Glacier"
+      ],
+      "traits": {
+        "energy": 1.0,
+        "social": 0.2,
+        "remoteness": 1.0,
+        "grit": 1.0,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.6,
+        "verticality": 1.0
+      },
+      "tags": [
+        "vast",
+        "epic",
+        "wild"
+      ],
+      "description": "You're vast, epic, and absolutely wild. You're the biggest, remotest, most dramatic version of wilderness—everything about you is maxed out and untamed."
+    },
+    {
+      "id": "yellowstone",
+      "name": "Yellowstone",
+      "state": "WY/MT/ID",
+      "primary_group": "Geothermal & Wildlife",
+      "secondary_groups": [
+        "Mountain"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.8,
+        "remoteness": 0.6,
+        "grit": 0.6,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.7,
+        "verticality": 0.7
+      },
+      "tags": [
+        "legendary",
+        "geothermal",
+        "diverse"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7D5920-1DD8-B71B-0B83F012ED802CEA.jpg",
+      "description": "You're legendary and diverse, bringing geothermal drama and wildlife together in one iconic package. You're social but still wild at heart—everyone knows your name."
+    },
+    {
+      "id": "yosemite",
+      "name": "Yosemite",
+      "state": "CA",
+      "primary_group": "Mountain & Forest",
+      "secondary_groups": [
+        "Valley & Waterfall"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.8,
+        "remoteness": 0.4,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 0.0,
+        "climate_cold": 0.5,
+        "water_affinity": 0.7,
+        "verticality": 0.9
+      },
+      "tags": [
+        "iconic",
+        "dramatic",
+        "majestic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C84CC4C-1DD8-B71B-0BE967E5E5D93F25.jpg",
+      "description": "You're iconic and dramatic, with towering granite walls and thundering waterfalls. You've got the energy for serious adventures and the charisma to draw crowds."
+    },
+    {
+      "id": "zion",
+      "name": "Zion",
+      "state": "UT",
+      "primary_group": "Canyon & Geological",
+      "secondary_groups": [
+        "Desert"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.8,
+        "remoteness": 0.4,
+        "grit": 0.8,
+        "drama": 1.0,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.5,
+        "verticality": 0.9
+      },
+      "tags": [
+        "towering",
+        "narrow",
+        "epic"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/68BFC1AC-BF96-629F-89D261D78F181C64.jpg",
+      "description": "You're towering and narrow, creating epic adventures in tight canyon spaces. You've got dramatic energy and the grit to tackle exposed, vertical challenges."
+    },
+    {
+      "id": "kobuk_valley",
+      "name": "Kobuk Valley",
+      "state": "AK",
+      "primary_group": "Remote Wilderness",
+      "secondary_groups": [
+        "Arctic",
+        "Desert"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.0,
+        "remoteness": 1.0,
+        "grit": 1.0,
+        "drama": 0.7,
+        "climate_hot": 0.0,
+        "climate_cold": 1.0,
+        "water_affinity": 0.2,
+        "verticality": 0.2
+      },
+      "tags": [
+        "remote",
+        "arctic-dunes",
+        "untouched"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7A1214-1DD8-B71B-0B00D823BD9BF4CF.jpg",
+      "description": "You're remote and surreal—arctic dunes that shouldn't exist but do. You thrive in extreme isolation where the landscape defies expectations."
+    },
+    {
+      "id": "new_river_gorge",
+      "name": "New River Gorge",
+      "state": "WV",
+      "primary_group": "River & Canyon",
+      "secondary_groups": [
+        "Mountain",
+        "Rock Climbing"
+      ],
+      "traits": {
+        "energy": 0.8,
+        "social": 0.6,
+        "remoteness": 0.4,
+        "grit": 0.7,
+        "drama": 0.8,
+        "climate_hot": 0.5,
+        "climate_cold": 0.4,
+        "water_affinity": 0.7,
+        "verticality": 0.8
+      },
+      "tags": [
+        "adventurous",
+        "whitewater",
+        "newest"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/3C7E8C70-1DD8-B71B-0B00C7B2373E386E.jpg",
+      "description": "You're adventurous and fresh, the newest addition to the park family. You love whitewater thrills and proving that adventure doesn't need to be remote to be epic."
+    },
+    {
+      "id": "virgin_islands",
+      "name": "Virgin Islands",
+      "state": "VI",
+      "primary_group": "Coastal & Ocean",
+      "secondary_groups": [
+        "Tropical",
+        "Water-Centered"
+      ],
+      "traits": {
+        "energy": 0.5,
+        "social": 0.7,
+        "remoteness": 0.3,
+        "grit": 0.3,
+        "drama": 0.7,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 1.0,
+        "verticality": 0.2
+      },
+      "tags": [
+        "tropical",
+        "paradise",
+        "snorkeling"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/1F0534AF-91EB-443B-41760F790BE42778.jpg",
+      "description": "You're tropical paradise personified, all snorkeling, beaches, and Caribbean vibes. You're social, warm, and believe life should feel like vacation."
+    },
+    {
+      "id": "white_sands",
+      "name": "White Sands",
+      "state": "NM",
+      "primary_group": "Desert & Arid",
+      "secondary_groups": [
+        "Geological Wonder"
+      ],
+      "traits": {
+        "energy": 0.6,
+        "social": 0.5,
+        "remoteness": 0.5,
+        "grit": 0.5,
+        "drama": 0.9,
+        "climate_hot": 1.0,
+        "climate_cold": 0.0,
+        "water_affinity": 0.0,
+        "verticality": 0.2
+      },
+      "tags": [
+        "surreal",
+        "white-dunes",
+        "otherworldly"
+      ],
+      "image_url": "https://www.nps.gov/common/uploads/structured_data/7CA16410-A412-1F05-2D92EB04EEB27980.jpg",
+      "description": "You're surreal and otherworldly, with white dunes that look like another planet. You thrive in dramatic, unusual landscapes that make people question reality."
+    }
+  ]
+}

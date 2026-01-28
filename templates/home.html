@@ -1,0 +1,55 @@
+{{define "title"}}Which National Park Are You? 🏕️{{end}}
+
+{{define "content"}}
+<div class="flex flex-col items-center justify-center min-h-[80vh] text-center">
+    <div class="mb-10">
+        <h1 class="text-5xl md:text-7xl font-extrabold text-gray-900 mb-5 leading-tight">
+            Which National Park<br/>Are You? 🌲
+        </h1>
+        <p class="text-xl md:text-2xl text-gray-700 max-w-2xl mx-auto font-medium">
+            Take this fun quiz and discover which of America's 63 national parks matches your vibe!
+        </p>
+    </div>
+
+    <div class="bg-white rounded-3xl shadow-2xl p-10 md:p-14 max-w-lg transform hover:scale-105 transition-transform duration-300">
+        <div class="mb-8">
+            <svg class="w-28 h-28 mx-auto" viewBox="0 0 100 120" fill="none">
+                <!-- NPS Arrowhead Shape -->
+                <path d="M50 5 L85 30 L85 75 L75 95 L50 110 L25 95 L15 75 L15 30 Z"
+                      fill="#3d2817" stroke="#000" stroke-width="1"/>
+                <!-- Mountain -->
+                <path d="M50 25 L70 55 L30 55 Z" fill="#8B7355"/>
+                <!-- Tree -->
+                <path d="M42 45 L42 60 M42 48 L38 52 L46 52 L42 48 M42 52 L40 56 L44 56 L42 52"
+                      stroke="#2d5016" stroke-width="2" fill="none"/>
+                <!-- Water -->
+                <path d="M25 65 Q35 62 45 65 T65 65 T75 65"
+                      stroke="#4a7c9e" stroke-width="3" fill="none"/>
+                <!-- Bison silhouette -->
+                <ellipse cx="62" cy="63" rx="8" ry="5" fill="#3d2817"/>
+                <circle cx="58" cy="62" r="3" fill="#3d2817"/>
+                <!-- Sequoia Tree -->
+                <path d="M78 45 L78 70 M78 47 L74 52 L82 52 Z M78 53 L75 57 L81 57 Z M78 58 L76 62 L80 62 Z"
+                      fill="#2d5016" stroke="#2d5016" stroke-width="1"/>
+                <!-- Border highlight -->
+                <path d="M50 5 L85 30 L85 75 L75 95 L50 110 L25 95 L15 75 L15 30 Z"
+                      fill="none" stroke="#8B7355" stroke-width="2" opacity="0.3"/>
+            </svg>
+        </div>
+
+        <h2 class="text-3xl font-bold text-gray-900 mb-4">Ready for adventure? 🏔️</h2>
+        <p class="text-gray-600 mb-10 text-lg">
+            Just 15 quick questions to find your perfect park match. No wrong answers!
+        </p>
+
+        <a href="/quiz?question=1"
+           class="inline-block w-full bg-gradient-to-r from-park-600 to-park-700 hover:from-park-700 hover:to-park-800 text-white font-bold text-lg py-5 px-10 rounded-2xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
+            Let's Go! 🚀
+        </a>
+    </div>
+
+    <p class="mt-10 text-base text-gray-600 font-medium">
+        🌲 63 parks · ⏱️ 3 minutes · ✨ Personalized results
+    </p>
+</div>
+{{end}}

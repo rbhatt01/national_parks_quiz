@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "id": "Q1",
+      "prompt": "You wake up with no alarms and zero obligations. What’s the move?",
+      "options": [
+        { "id": "A", "text": "Stay in bed scrolling until your arm goes numb", "scores": { "energy": 1 } },
+        { "id": "B", "text": "Sit up, immediately reach for coffee", "scores": { "energy": 2 } },
+        { "id": "C", "text": "Up by mid-morning, loose plan forming", "scores": { "energy": 3 } },
+        { "id": "D", "text": "Already dressed, errands and movement planned", "scores": { "energy": 4 } },
+        { "id": "E", "text": "Awake early, calendar full, let’s optimize", "scores": { "energy": 5 } }
+      ]
+    },
+    {
+      "id": "Q2",
+      "prompt": "You head out for coffee. The place you picked is way busier than expected.",
+      "options": [
+        { "id": "A", "text": "Turn around and leave without ordering", "scores": { "social": 0, "remoteness": 5 } },
+        { "id": "B", "text": "Order fast, stand in the corner, headphones on", "scores": { "social": 1, "remoteness": 4 } },
+        { "id": "C", "text": "Stand in line, mild people-watching", "scores": { "social": 3, "remoteness": 2 } },
+        { "id": "D", "text": "Chat with the barista, comment on the playlist", "scores": { "social": 4, "remoteness": 1 } },
+        { "id": "E", "text": "End up talking to strangers about weekend plans", "scores": { "social": 5, "remoteness": 0 } }
+      ]
+    },
+    {
+      "id": "Q3",
+      "prompt": "You decide to make brunch. The recipe calls for ingredients you definitely don’t have.",
+      "options": [
+        { "id": "A", "text": "Give up and eat cereal", "scores": { "grit": 1 } },
+        { "id": "B", "text": "Substitute aggressively and hope", "scores": { "grit": 2 } },
+        { "id": "C", "text": "Stick close to the recipe anyway", "scores": { "grit": 3 } },
+        { "id": "D", "text": "Improvise and pretend this was the plan", "scores": { "grit": 4 } },
+        { "id": "E", "text": "Go back out to get what’s missing", "scores": { "grit": 5 } }
+      ]
+    },
+    {
+      "id": "Q4",
+      "prompt": "You go for a walk and round a corner into something unexpected.",
+      "options": [
+        { "id": "A", "text": "A quiet trail where fog hangs between trees", "scores": { "drama": 0.4 } },
+        { "id": "B", "text": "A wide open valley with uneven sunlight", "scores": { "drama": 0.6 } },
+        { "id": "C", "text": "A long overlook with miles of visibility", "scores": { "drama": 0.8 } },
+        { "id": "D", "text": "A sheer rock face rising straight up", "scores": { "drama": 0.9 } },
+        { "id": "E", "text": "A massive natural feature that stops you cold", "scores": { "drama": 1.0 } }
+      ]
+    },
+    {
+      "id": "Q5",
+      "prompt": "If today turned into a trip, what environment are you in?",
+      "options": [
+        { "id": "A", "text": "Sandy beach, hot sun, salt in the air", "scores": { "climate_hot": 5 } },
+        { "id": "B", "text": "Dry desert heat, red dirt, no shade", "scores": { "climate_hot": 4 } },
+        { "id": "C", "text": "Mild air, light breeze, perfect layers", "scores": { "climate_hot": 1, "climate_cold": 1 } },
+        { "id": "D", "text": "Cool forest, jacket weather", "scores": { "climate_cold": 2 } },
+        { "id": "E", "text": "Snow underfoot, breath visible", "scores": { "climate_cold": 5 } }
+      ]
+    },
+    {
+      "id": "Q6",
+      "prompt": "You’ve got hours to explore. What does movement look like?",
+      "options": [
+        { "id": "A", "text": "Walking next to a river or lake all day", "scores": { "water_affinity": 5 } },
+        { "id": "B", "text": "Rolling hills, steady walking", "scores": { "verticality": 2 } },
+        { "id": "C", "text": "Flat path, long distance", "scores": { "verticality": 1 } },
+        { "id": "D", "text": "Consistent uphill with viewpoints", "scores": { "verticality": 4 } },
+        { "id": "E", "text": "Steep climbs, legs burning", "scores": { "verticality": 5 } }
+      ]
+    },
+    {
+      "id": "Q7",
+      "prompt": "Your phone buzzes. Friends want to make plans.",
+      "options": [
+        { "id": "A", "text": "Ignore it entirely", "scores": { "remoteness": 5 } },
+        { "id": "B", "text": "Reply hours later", "scores": { "remoteness": 4 } },
+        { "id": "C", "text": "Suggest something short", "scores": { "remoteness": 3 } },
+        { "id": "D", "text": "Say yes if it’s easy", "scores": { "remoteness": 2 } },
+        { "id": "E", "text": "Actively make plans", "scores": { "remoteness": 1 } }
+      ]
+    },
+    {
+      "id": "Q8",
+      "prompt": "The day starts drifting off-plan. Your response?",
+      "options": [
+        { "id": "A", "text": "Let it unfold however", "scores": { "energy": 2, "grit": 1 } },
+        { "id": "B", "text": "Adjust lightly", "scores": { "energy": 2.5, "grit": 2 } },
+        { "id": "C", "text": "Reorganize and continue", "scores": { "energy": 3, "grit": 3 } },
+        { "id": "D", "text": "Pivot fast, keep momentum", "scores": { "energy": 3.5, "grit": 4 } },
+        { "id": "E", "text": "Push through no matter what", "scores": { "energy": 4, "grit": 4 } }
+      ]
+    },
+    {
+      "id": "Q9",
+      "prompt": "You’re driving somewhere scenic. What’s playing?",
+      "options": [
+        { "id": "A", "text": "Low-key R&B, windows cracked", "scores": { "drama": 0.4 } },
+        { "id": "B", "text": "Indie playlist you’ve had for years", "scores": { "drama": 0.5 } },
+        { "id": "C", "text": "Pop with the windows down", "scores": { "water_affinity": 0.6, "drama": 0.6 } },
+        { "id": "D", "text": "Throwbacks, singing included", "scores": { "water_affinity": 0.7, "drama": 0.8 } },
+        { "id": "E", "text": "Full hype music, rap, EDM, main-character energy", "scores": { "drama": 1.0 } }
+        ]
+        },
+        {
+          "id": "Q10",
+          "prompt": "Someone suggests a plan that might be inconvenient.",
+          "options": [
+            { "id": "A", "text": "Immediate no", "scores": { "grit": 1 } },
+            { "id": "B", "text": "Only if it’s nearby", "scores": { "grit": 2 } },
+            { "id": "C", "text": "Depends how long it takes", "scores": { "grit": 3 } },
+            { "id": "D", "text": "Sounds annoying but interesting", "scores": { "grit": 4 } },
+            { "id": "E", "text": "Say yes without thinking", "scores": { "grit": 5 } }
+          ]
+        },
+        {
+          "id": "Q11",
+          "prompt": "You stop at something meant to be “looked at.”",
+          "options": [
+            { "id": "A", "text": "Old ruins or ancient structures", "scores": { "drama": 3 } },
+            { "id": "B", "text": "Moving water or shifting land", "scores": { "drama": 3.5 } },
+            { "id": "C", "text": "Evidence of massive natural force", "scores": { "drama": 4 } },
+            { "id": "D", "text": "Something extreme or risky", "scores": { "drama": 4.5 } },
+            { "id": "E", "text": "A place that feels unreal", "scores": { "drama": 5 } }
+          ]
+        },
+        {
+          "id": "Q12",
+          "prompt": "Evening plans finally happen. The setting is…",
+          "options": [
+            { "id": "A", "text": "Quiet spot, minimal conversation", "scores": { "social": 0, "remoteness": 4 } },
+            { "id": "B", "text": "Small group, calm energy", "scores": { "social": 1, "remoteness": 3 } },
+            { "id": "C", "text": "Balanced crowd, easy vibe", "scores": { "social": 3, "remoteness": 2 } },
+            { "id": "D", "text": "Busy but manageable", "scores": { "social": 4, "remoteness": 1 } },
+            { "id": "E", "text": "Loud, crowded, shared chaos", "scores": { "social": 5, "remoteness": 0 } }
+          ]
+        },
+        {
+          "id": "Q13",
+          "prompt": "Something goes wrong. Again.",
+          "options": [
+            { "id": "A", "text": "Call it a day", "scores": { "grit": 1, "energy": 1 } },
+            { "id": "B", "text": "Annoyed but continue", "scores": { "grit": 2, "energy": 2 } },
+            { "id": "C", "text": "Adjust plans", "scores": { "grit": 3, "energy": 3 } },
+            { "id": "D", "text": "Laugh and move on", "scores": { "grit": 4, "energy": 3.5 } },
+            { "id": "E", "text": "Feel more alive because of it", "scores": { "grit": 5, "energy": 4 } }
+          ]
+        },
+        {
+          "id": "Q14",
+          "prompt": "You make one last stop before heading home.",
+          "options": [
+            { "id": "A", "text": "Still water reflecting light", "scores": { "drama": 3 } },
+            { "id": "B", "text": "Overlook with a railing", "scores": { "drama": 3.5, "verticality": 2 } },
+            { "id": "C", "text": "Cliff edge with a clear drop", "scores": { "drama": 4, "verticality": 3 } },
+            { "id": "D", "text": "High enough to feel exposed", "scores": { "drama": 4.5, "verticality": 4 } },
+            { "id": "E", "text": "Somewhere that makes your stomach flip", "scores": { "drama": 5, "verticality": 5 } }
+          ]
+        },
+        {
+          "id": "Q15",
+          "prompt": "The day is over. How does it sit with you?",
+          "options": [
+            { "id": "A", "text": "Exhausted and done", "scores": { "grit": 1, "drama": 1 } },
+            { "id": "B", "text": "Satisfied, ready for bed", "scores": { "grit": 2, "drama": 2 } },
+            { "id": "C", "text": "Solid day, no notes", "scores": { "grit": 3, "drama": 3 } },
+            { "id": "D", "text": "Already planning the next trip", "scores": { "grit": 4, "drama": 4 } },
+            { "id": "E", "text": "Wish it didn’t end", "scores": { "grit": 5, "drama": 5 } }
+          ]
+        }
+      ]
+    }
